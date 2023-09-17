@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mayur Gohane
-- 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning Data Science 
+- 👀 I’m interested in Artificial Intelligence 
+- 🌱 I’m currently learning Natural Language Processing, Computer Vision, Deep Learning 
 - 💞️ I’m looking to collaborate on work or project related to Machine Learning 
 - 📫 How to reach me mayur100888@gmail.com
 - www.linkedin.com/in/mayur-gohane
