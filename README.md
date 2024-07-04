@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning, Deep Learning, Natural Language Processing
 - 🌱 I’m currently looking for jobs in AI/ML
 - 📫 How to reach me mayurgohane19@gmail.com
-- My Portfolio- https://linktr.ee/MayurGohane?ltsid=c018f8bf-fe24-44b5-b092-31eda250372f
+- My Portfolio- 
 - www.linkedin.com/in/mayur-gohane
 - https://www.instagram.com/mayur.g20/
 - https://twitter.com/MayurGohane
