@@ -4,8 +4,7 @@
 - 📫 How to reach me mayurgohane19@gmail.com
 - My Portfolio- 
 - www.linkedin.com/in/mayur-gohane
-- https://www.instagram.com/mayur.g20/
-- https://twitter.com/MayurGohane
+
 
 <!---
 Mayurgohane/Mayurgohane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
