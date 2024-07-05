@@ -23,6 +23,8 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=sql&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-0A66C2?style=flat&logo=chainlink&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFDA44?style=flat&logo=hugging-face&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
@@ -32,7 +34,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayurgohane&layout=compact&theme=radical)
 
 ## 📊 Contribution Graph
-![GitHub Contributions](https://github.com/mayurgohane/mayurgohane/blob/output/github-contribution-grid-snake.svg)
+![GitHub Contributions](https://raw.githubusercontent.com/mayurgohane/mayurgohane/output/github-contribution-grid-snake.svg)
 
 ## 🔗 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayurgohane/)
