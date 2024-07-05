@@ -33,6 +33,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayur-gohane)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mayurgohane19@gmail.com)
 
+![GitHub Contributions](https://github.com/mayurgohane/mayurgohane/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 Mayurgohane/Mayurgohane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
