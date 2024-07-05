@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @Mayur Gohane
-- 👀 I’m interested in Machine Learning, Deep Learning, Natural Language Processing
-- 🌱 I’m currently looking for jobs in AI/ML
-- 📫 How to reach me mayurgohane19@gmail.com 
-- www.linkedin.com/in/mayur-gohane
 # 👋 Hi, I’m Mayur Gohane
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mayurgohane&color=blue)
@@ -14,6 +9,10 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/mayur-gohane)
 
 ## 🛠️ Technologies & Tools
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-3776AB?style=flat&logo=python&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Natural Language Processing](https://img.shields.io/badge/Natural%20Language%20Processing-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
@@ -30,12 +29,5 @@
 ![GitHub Contributions](https://github.com/mayurgohane/mayurgohane/blob/output/github-contribution-grid-snake.svg)
 
 ## 🔗 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayurgohane/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayur-gohane)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mayurgohane19@gmail.com)
-
-![GitHub Contributions](https://github.com/mayurgohane/mayurgohane/blob/output/github-contribution-grid-snake.svg)
-
-<!---
-Mayurgohane/Mayurgohane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
