@@ -5,8 +5,7 @@
 - 🔭 I’m actively seeking a full-time role in AI/ML and Generative AI
 - 👀 Passionate about Machine Learning, Deep Learning, Natural Language Processing, and Generative AI
 - 🌱 Currently upskilling and working on innovative projects
-- 📫 How to reach me: mayurgohane19@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/mayur-gohane)
+
 
 ## 🛠️ Technologies & Tools
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-3776AB?style=flat&logo=python&logoColor=white)
