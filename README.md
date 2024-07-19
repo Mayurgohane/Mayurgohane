@@ -33,15 +33,6 @@ I am an AI/ML professional with a strong background in Artificial Intelligence (
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFDA44?style=flat&logo=hugging-face&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 
-## 📈 GitHub Stats
-
-![Mayur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayurgohane&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayurgohane&layout=compact&theme=radical)
-
-## 📊 Contribution Graph
-
-![GitHub Contributions](https://raw.githubusercontent.com/mayurgohane/mayurgohane/output/github-contribution-grid-snake.svg)
-
 ## 🏆 Achievements & Certifications
 
 - **Artificial Intelligence & Machine Learning Specialization** from Fireblaze AI School
@@ -50,6 +41,15 @@ I am an AI/ML professional with a strong background in Artificial Intelligence (
 - **Cognizant Virtual Artificial Intelligence Job Stimulation** by Forage
 - **5-Star Golden Batch** in Python on HackerRank
 - **3-Star** in SQL on HackerRank
+
+## 📈 GitHub Stats
+
+![Mayur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayurgohane&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayurgohane&layout=compact&theme=radical)
+
+## 📊 Contribution Graph
+
+![GitHub Contributions](https://raw.githubusercontent.com/mayurgohane/mayurgohane/output/github-contribution-grid-snake.svg)
 
 ## 🔗 Connect with me
 
