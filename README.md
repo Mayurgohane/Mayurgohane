@@ -7,7 +7,8 @@
 - 🌱 Currently upskilling and working on innovative projects
 
 
-## 🛠️ Technologies & Tools
+## Skills and Technologies
+
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-3776AB?style=flat&logo=python&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Natural Language Processing](https://img.shields.io/badge/Natural%20Language%20Processing-EE4C2C?style=flat&logo=pytorch&logoColor=white)
@@ -22,11 +23,13 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=sql&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Vector Database](https://img.shields.io/badge/Vector%20Database-4B8BBE?style=flat&logo=none&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-FFB846?style=flat&logo=powerbi&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-0A66C2?style=flat&logo=chainlink&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFDA44?style=flat&logo=hugging-face&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+
 
 ## 📈 GitHub Stats
 ![Mayur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayurgohane&show_icons=true&theme=radical)
