@@ -42,6 +42,15 @@ I am an AI/ML professional with a strong background in Artificial Intelligence (
 
 ![GitHub Contributions](https://raw.githubusercontent.com/mayurgohane/mayurgohane/output/github-contribution-grid-snake.svg)
 
+## 🏆 Achievements & Certifications
+
+- **Artificial Intelligence & Machine Learning Specialization** from Fireblaze AI School
+- **Data Science Certification** from ExcelR Solutions
+- **BCG Virtual Data Science Job Stimulation** by Forage
+- **Cognizant Virtual Artificial Intelligence Job Stimulation** by Forage
+- **5-Star Golden Batch** in Python on HackerRank
+- **3-Star** in SQL on HackerRank
+
 ## 🔗 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayurgohane/)
