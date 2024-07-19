@@ -6,6 +6,9 @@
 - 👀 Passionate about Machine Learning, Deep Learning, Natural Language Processing, and Generative AI
 - 🌱 Currently upskilling and working on innovative projects
 
+## About Me
+
+I am an enthusiastic AI/ML professional with a strong background in data science, machine learning, and deep learning. With hands-on experience in developing innovative AI solutions and a passion for exploring the latest advancements in Generative AI, I am committed to leveraging my skills to drive impactful projects and contribute to the growth of the tech community.
 
 ## Skills and Technologies
 
@@ -30,18 +33,25 @@
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFDA44?style=flat&logo=hugging-face&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 
-
 ## 📈 GitHub Stats
+
 ![Mayur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayurgohane&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayurgohane&layout=compact&theme=radical)
 
 ## 📊 Contribution Graph
+
 ![GitHub Contributions](https://raw.githubusercontent.com/mayurgohane/mayurgohane/output/github-contribution-grid-snake.svg)
 
 ## 🔗 Connect with me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayurgohane/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mayurgohane19@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/MayurGohane)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/raoooooo_20?igsh=ZjZ0MWJramphdDc0&utm_source=qr)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/mayurgohane19)
 
+## 🎨 Interests
 
-
+- **Photography**: Enjoy capturing moments and landscapes.
+- **Trekking**: Passionate about exploring new trails and experiencing nature.
+- **Cricket**: Enthusiastic player and follower of the sport.
