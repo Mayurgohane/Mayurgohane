@@ -8,7 +8,7 @@
 
 ## About Me
 
-I am an enthusiastic AI/ML professional with a strong background in data science, machine learning, and deep learning. With hands-on experience in developing innovative AI solutions and a passion for exploring the latest advancements in Generative AI, I am committed to leveraging my skills to drive impactful projects and contribute to the growth of the tech community.
+I am an AI/ML professional with a strong background in Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL), Natural Language Processing (NLP), and Generative AI. With hands-on experience in developing innovative AI solutions, I am committed to leveraging my skills to drive impactful projects and contribute to the growth of the tech community.
 
 ## Skills and Technologies
 
