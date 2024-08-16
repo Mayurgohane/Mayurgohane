@@ -1,6 +1,3 @@
-Here's an enhanced `README.md` file that highlights your 3 years of experience as a Data Scientist:
-
-```markdown
 # Welcome to My Portfolio - I'm Mayur Gohane! 🌟
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mayurgohane&color=blue)
@@ -9,6 +6,7 @@ Here's an enhanced `README.md` file that highlights your 3 years of experience a
 
 🌱 **Data Scientist with 3 years of experience** in developing and implementing Machine Learning, Deep Learning, NLP, and Generative AI solutions. I am passionate about leveraging my background in Artificial Intelligence to drive impactful projects and contribute to the tech community. My expertise includes hands-on work with innovative AI solutions and a commitment to excellence in all aspects of AI/ML development.
 
+- 🔭 Actively seeking a full-time role in AI/ML and Generative AI.
 
 ## Skills and Technologies
 
@@ -69,6 +67,3 @@ Here's an enhanced `README.md` file that highlights your 3 years of experience a
 - 📸 **Photography**: Enjoy capturing moments and landscapes.
 - 🏞️ **Trekking**: Passionate about exploring new trails and experiencing nature.
 - 🏏 **Cricket**: Enthusiastic player and follower of the sport.
-```
-
-This `README.md` file emphasizes your 3 years of experience at the beginning of the “About Me” section and provides a detailed overview of your skills, achievements, and interests.
