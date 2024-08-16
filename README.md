@@ -4,11 +4,8 @@
 
 ## About Me
 
-- 🌱 Data Scientist with 3 years of experience, having worked on projects involving Machine Learning, Deep Learning, NLP, and Generative AI.
+🌱 Data Scientist with 3 years of experience, having worked on projects involving Machine Learning, Deep Learning, NLP, and Generative AI. I am an AI/ML professional with a strong background in Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL), Natural Language Processing (NLP), and Generative AI. With hands-on experience in developing innovative AI solutions, I am committed to leveraging my skills to drive impactful projects and contribute to the growth of the tech community.
 
-## About Me
-
-I am an AI/ML professional with a strong background in Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL), Natural Language Processing (NLP), and Generative AI. With hands-on experience in developing innovative AI solutions, I am committed to leveraging my skills to drive impactful projects and contribute to the growth of the tech community.
 
 ## Skills and Technologies
 
