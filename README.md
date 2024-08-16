@@ -6,8 +6,6 @@
 
 🌱 **Data Scientist with 3 years of experience** in developing and implementing Machine Learning, Deep Learning, NLP, and Generative AI solutions. I am passionate about leveraging my background in Artificial Intelligence to drive impactful projects and contribute to the tech community. My expertise includes hands-on work with innovative AI solutions and a commitment to excellence in all aspects of AI/ML development.
 
-- 🔭 Actively seeking a full-time role in AI/ML and Generative AI.
-
 ## Skills and Technologies
 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-3776AB?style=flat&logo=python&logoColor=white)
