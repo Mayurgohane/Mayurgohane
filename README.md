@@ -2,9 +2,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mayurgohane&color=blue)
 
-- 🔭 I’m actively seeking a full-time role in AI/ML and Generative AI
-- 👀 Passionate about Machine Learning, Deep Learning, Natural Language Processing, and Generative AI
-- 🌱 Currently upskilling and working on innovative projects
+## About Me
+
+- 🌱 Data Scientist with 3 years of experience, having worked on projects involving Machine Learning, Deep Learning, NLP, and Generative AI.
 
 ## About Me
 
