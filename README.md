@@ -1,4 +1,4 @@
-# Welcome to My Portfolio - I'm Mayur Gohane! 🌟
+# Welcome to My Portfolio - I'm Mayur 🌟
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mayurgohane&color=blue)
 
