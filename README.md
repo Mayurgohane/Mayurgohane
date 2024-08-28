@@ -46,12 +46,11 @@ I’m a Data Scientist with 3 years of hands-on experience in Machine Learning, 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Mayurgohane&theme=cobalt&no-bg=true&no-frame=true)
 
 
-## 🔗 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayurgohane/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mayurgohane19@gmail.com)
-[![X](https://img.shields.io/badge/X-1DA1F2?style=flat&logo=x&logoColor=white)](https://twitter.com/MayurGohane)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@Mayur_Gohane)
+## 📈 GitHub Stats
+![Mayur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mayurgohane&show_icons=true&theme=monokai)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayurgohane&layout=compact&theme=monokai)
+![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Mayurgohane&theme=monokai&hide_border=true)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Mayurgohane&theme=monokai&no-bg=true&no-frame=true)
 
 
 ## 🎨 Interests
