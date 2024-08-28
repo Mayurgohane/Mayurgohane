@@ -2,9 +2,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mayurgohane&color=blue)
 
-## About Me
+## About Me 🌱 
 
-🌱 **Data Scientist with 3 years of experience** in developing and implementing Machine Learning, Deep Learning, NLP, and Generative AI solutions. I am passionate about leveraging my background in Artificial Intelligence to drive impactful projects and contribute to the tech community. My expertise includes hands-on work with innovative AI solutions and a commitment to excellence in all aspects of AI/ML development.
+I’m a Data Scientist with 3 years of hands-on experience in Machine Learning, Deep Learning, NLP, and Generative AI. I’m passionate about using Artificial Intelligence to craft solutions that make a real difference in the world. Whether it's improving efficiencies, solving complex problems, or simply pushing the limits of what technology can do, I love being at the intersection of innovation and impact.
 
 ## Skills and Technologies
 
