@@ -38,10 +38,6 @@
 
 - 🏅 **Artificial Intelligence & Machine Learning Specialization** from Fireblaze AI School
 - 🏅 **Data Science Certification** from ExcelR Solutions
-- 🏆 **5-Star Golden Batch** in Python on HackerRank
-- 🌟 **3-Star** in SQL on HackerRank
-- 🎓 **BCG Virtual Data Science Job Stimulation** by Forage
-- 🎓 **Cognizant Virtual Artificial Intelligence Job Stimulation** by Forage
 
 ## 📈 GitHub Stats
 
