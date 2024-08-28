@@ -40,9 +40,10 @@ I’m a Data Scientist with 3 years of hands-on experience in Machine Learning, 
 - 🏅 **Data Science Certification** from ExcelR Solutions
 
 ## 📈 GitHub Stats
-
-![Mayur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayurgohane&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayurgohane&layout=compact&theme=radical)
+![Mayur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mayurgohane&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayurgohane&layout=compact&theme=tokyonight)
+![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Mayurgohane&theme=tokyonight&hide_border=true)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Mayurgohane&theme=tokyonight&no-bg=true&no-frame=true)
 
 
 ## 🔗 Connect with me
