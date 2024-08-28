@@ -44,17 +44,14 @@
 ![Mayur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayurgohane&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayurgohane&layout=compact&theme=radical)
 
-## 📊 Contribution Graph
-
-![GitHub Contributions](https://raw.githubusercontent.com/mayurgohane/mayurgohane/output/github-contribution-grid-snake.svg)
 
 ## 🔗 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayurgohane/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mayurgohane19@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/MayurGohane)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/raoooooo_20?igsh=ZjZ0MWJramphdDc0&utm_source=qr)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/mayurgohane19)
+[![X](https://img.shields.io/badge/X-1DA1F2?style=flat&logo=x&logoColor=white)](https://twitter.com/MayurGohane)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@Mayur_Gohane)
+
 
 ## 🎨 Interests
 
