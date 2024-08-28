@@ -10,9 +10,14 @@ I’m a Data Scientist with 3 years of hands-on experience in Machine Learning, 
 
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-F37626?style=flat&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-3776AB?style=flat&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-4B8BBE?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Vector Database](https://img.shields.io/badge/Vector%20Database-4B8BBE?style=flat&logo=none&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0052CC?style=flat&logo=fastapi&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
@@ -26,6 +31,7 @@ I’m a Data Scientist with 3 years of hands-on experience in Machine Learning, 
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
+
 
 
 ## 🏆 Achievements & Certifications
