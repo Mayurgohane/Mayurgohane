@@ -8,48 +8,21 @@ I’m a Data Scientist with 3 years of hands-on experience in Machine Learning, 
 
 ## 🚀 Skills and Technologies
 
-### Generative AI
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-F37626?style=flat&logo=python&logoColor=white)
-
-### Machine Learning
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-3776AB?style=flat&logo=python&logoColor=white)
-
-### Deep Learning
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-
-### Natural Language Processing
 ![NLP](https://img.shields.io/badge/NLP-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-
-### Data Analysis
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-4B8BBE?style=flat&logo=python&logoColor=white)
-
-### Vector Database
 ![Vector Database](https://img.shields.io/badge/Vector%20Database-4B8BBE?style=flat&logo=none&logoColor=white)
-
-### Web Framework
 ![FastAPI](https://img.shields.io/badge/FastAPI-0052CC?style=flat&logo=fastapi&logoColor=white)
-
-### Data Visualization
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-
-### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-### Database
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-### Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
-### Containerization
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-### Cloud
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-
-### IDEs
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
