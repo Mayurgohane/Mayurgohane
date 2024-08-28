@@ -55,6 +55,8 @@
 
 ## 🎨 Interests
 
-- 📸 **Photography**: Enjoy capturing moments and landscapes.
-- 🏞️ **Trekking**: Passionate about exploring new trails and experiencing nature.
-- 🏏 **Cricket**: Enthusiastic player and follower of the sport.
+- 📸 **Photography**: I have a keen eye for detail and a passion for capturing the beauty of the world through my lens. From stunning landscapes to candid moments, photography allows me to express creativity and see the world from unique perspectives.
+  
+- 🏞️ **Trekking**: Exploring new trails and connecting with nature is something I find incredibly rewarding. Trekking not only challenges me physically but also refreshes my mind, offering a perfect balance of adventure and tranquility.
+
+- 🏏 **Cricket**: As a dedicated cricket enthusiast, I love both playing and following the sport. Whether it’s strategizing during a match or cheering for my favorite team, cricket has always been a source of excitement and camaraderie for me.
