@@ -33,16 +33,16 @@ I’m a Data Scientist with 3 years of hands-on experience in Machine Learning, 
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
 
 
-
-## 🏆 Achievements & Certifications
-
-- 🏅 **Artificial Intelligence & Machine Learning Specialization** from Fireblaze AI School
-- 🏅 **Data Science Certification** from ExcelR Solutions
-
 ## 📈 GitHub Stats
 ![Mayur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mayurgohane&show_icons=true&theme=merko)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayurgohane&layout=compact&theme=merko)
 ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Mayurgohane&theme=merko&hide_border=true)
+
+## 🏆 Certifications
+
+🏅 **Artificial Intelligence & Machine Learning Specialization** from Fireblaze AI School
+
+🏅 **Data Science Certification** from ExcelR Solutions
 
 
 ## 🎨 Interests
