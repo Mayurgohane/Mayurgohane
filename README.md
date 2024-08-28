@@ -46,13 +46,6 @@ I’m a Data Scientist with 3 years of hands-on experience in Machine Learning, 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Mayurgohane&theme=dracula&no-bg=true&no-frame=true)
 
 
-## 📈 GitHub Stats
-![Mayur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mayurgohane&show_icons=true&theme=monokai)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayurgohane&layout=compact&theme=monokai)
-![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Mayurgohane&theme=monokai&hide_border=true)
-![Trophies](https://github-profile-trophy.vercel.app/?username=Mayurgohane&theme=monokai&no-bg=true&no-frame=true)
-
-
 ## 🎨 Interests
 
 - 📸 **Photography**: I have a keen eye for detail and a passion for capturing the beauty of the world through my lens. From stunning landscapes to candid moments, photography allows me to express creativity and see the world from unique perspectives.
