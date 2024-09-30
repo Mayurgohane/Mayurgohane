@@ -40,13 +40,6 @@ I’m a Data Scientist with 3 years of hands-on experience in Machine Learning, 
 
 
 
-
-## 🏆 Certifications
-
-🏅 **Artificial Intelligence & Machine Learning Specialization** from Fireblaze AI School
-
-
-
 ## 🎨 Interests
 
 📸 **Photography**: 
