@@ -1,4 +1,4 @@
-# Welcome - I'm Mayur 🌟
+# Welcome
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mayurgohane&color=blue)
 
