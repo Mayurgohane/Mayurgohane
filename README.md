@@ -1,4 +1,4 @@
-# Welcome to My Profile
+# Welcome
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mayurgohane&color=blue)
 
