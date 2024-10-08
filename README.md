@@ -33,14 +33,15 @@ I’m a Data Scientist with 3 years of hands-on experience in Machine Learning, 
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Mayurgohane&show_icons=true&theme=merko)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayurgohane&layout=compact&theme=merko)
+![Mayur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mayurgohane&show_icons=true&theme=merko&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayurgohane&layout=compact&theme=merko&cache_seconds=1800)
 ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Mayurgohane&theme=merko&hide_border=true)
 
 ## 🎨 Interests
 
-📸 **Photography**: 
+📸 **Photography**: I love capturing moments and nature through my lens.
 
-🏞️ **Trekking**:
+🏞️ **Trekking**: Exploring new trails and enjoying the beauty of the outdoors is my passion.
 
-🏏 **Cricket**: 
+🏏 **Cricket**: A fan of the game and enjoy playing whenever I get the chance.
+
