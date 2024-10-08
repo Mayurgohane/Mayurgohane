@@ -37,7 +37,18 @@ I’m a Data Scientist with 3 years of hands-on experience in Machine Learning, 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayurgohane&layout=compact&theme=merko&cache_seconds=1800)
 
 ## 📊 Contribution Overview
-![Total Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mayurgohane&theme=vue)
+
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+    <div style="margin: 10px;">
+        ![Total Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mayurgohane&theme=vue)
+    </div>
+    <div style="margin: 10px;">
+        ![Contributions Graph](https://github-profile-summary-cards.vercel.app/api/cards/traffic?username=Mayurgohane&theme=vue)
+    </div>
+    <div style="margin: 10px;">
+        ![Contributions Breakdown](https://github-profile-summary-cards.vercel.app/api/cards/most-commits-recently?username=Mayurgohane&theme=vue)
+    </div>
+</div>
 
 ## 🎨 Interests
 
