@@ -4,7 +4,9 @@
 
 ## About Me 🌍
 
-I’m a **Data Scientist** with 3 years of experience, specializing in **Machine Learning**, **Deep Learning**, **NLP**, and **Generative AI**. My passion lies in leveraging AI to create innovative solutions that drive real-world impact, whether it's optimizing processes, solving complex challenges, or exploring the frontiers of technology.
+Hi there! I’m a Data Scientist with 3 years of experience working with Machine Learning, Deep Learning, NLP, and Generative AI. I love using AI to solve real-world problems, make things more efficient, and create innovative solutions that have a real impact.
+
+I’m always excited to learn and try new things in the AI space, and I’m passionate about building systems that make life easier and smarter. Let’s connect and see how we can collaborate to create something amazing!
 
 I thrive on working at the intersection of **innovation** and **impact**. Let's connect and explore how we can push the boundaries of what's possible with AI!
 
@@ -40,6 +42,9 @@ Here are some tools and technologies I work with:
 
 ![Mayur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mayurgohane&show_icons=true&theme=tokyonight&cache_seconds=1800)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayurgohane&layout=compact&theme=tokyonight&cache_seconds=1800)
+
+### 🔥 Current Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mayurgohane&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ## 🎨 Interests
 
