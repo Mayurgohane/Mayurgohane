@@ -52,6 +52,11 @@ Here are some tools and technologies I work with:
 - 🏞️ **Trekking**: Exploring nature and discovering new trails.
 - 🏏 **Cricket**: A dedicated fan of the game and an occasional player.
 
+## ✍️ Latest Blog Posts
+
+[NLP Techniques for Beginners: From Text Processing to Language Models](https://medium.com/@mayurgohane)
+
+
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mayurgohane)
