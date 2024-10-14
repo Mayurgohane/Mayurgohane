@@ -6,9 +6,9 @@
 
 Hi there! I’m a Data Scientist with 3 years of experience working with Machine Learning, Deep Learning, NLP, and Generative AI. I love using AI to solve real-world problems, make things more efficient, and create innovative solutions that have a real impact.
 
-I’m always excited to learn and try new things in the AI space, and I’m passionate about building systems that make life easier and smarter. 
+I’m always excited to learn and try new things in the AI space, and I’m passionate about building systems that make life easier and smarter. I thrive on working at the intersection of **innovation** and **impact**. 
 
-I thrive on working at the intersection of **innovation** and **impact**. Let's connect and explore how we can push the boundaries of what's possible with AI!
+Let's connect and explore how we can push the boundaries of what's possible with AI!
 
 ## 🚀 Skills & Technologies
 
