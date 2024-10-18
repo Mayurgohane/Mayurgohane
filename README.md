@@ -54,7 +54,9 @@ Here are some tools and technologies I work with:
 
 ## ✍️ Latest Blog Posts
 
-[NLP Techniques for Beginners: From Text Processing to Language Models](https://medium.com/@mayurgohane)
+## ✍️ Latest Blog Posts
+- [**NLP Techniques for Beginners: From Text Processing to Language Models**](https://medium.com/@mayurgohane/nlp-techniques-for-beginners-from-text-processing-to-language-models)
+
 
 
 ## 📫 Connect with Me
