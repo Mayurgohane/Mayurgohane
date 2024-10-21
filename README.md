@@ -53,9 +53,9 @@ Here are some tools and technologies I work with:
 - 🏏 **Cricket**: A dedicated fan of the game and an occasional player.
 
 ## ✍️ Latest Blog Posts
-[📖](https://medium.com/@mayurgohane/nlp-techniques-for-beginners-from-text-processing-to-language-models)
-[![Alt Text](URL-of-Image)](https://medium.com/@mayurgohane/nlp-techniques-for-beginners-from-text-processing-to-language-models)
-[![Read](https://github.com/yourusername/yourrepository/raw/main/path/to/icon.png)](https://medium.com/@mayurgohane/nlp-techniques-for-beginners-from-text-processing-to-language-models)
+<a href="https://medium.com/@mayurgohane/nlp-techniques-for-beginners-from-text-processing-to-language-models">
+  <img src="https://github.com/yourusername/yourrepository/raw/main/path/to/logo.png" alt="Read" width="100" height="100">
+</a>
 
 
 
