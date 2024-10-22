@@ -48,9 +48,9 @@ Here are some tools and technologies I work with:
 
 ## 🎨 Interests
 
-- 📸 **Photography**: Capturing beautiful moments through my lens.
-- 🏞️ **Trekking**: Exploring nature and discovering new trails.
-- 🏏 **Cricket**: A dedicated fan of the game and an occasional player.
+- 📸 **Photography**: 
+- 🏞️ **Trekking**: 
+- 🏏 **Cricket**: 
 
 
 ## 📫 Connect with Me
