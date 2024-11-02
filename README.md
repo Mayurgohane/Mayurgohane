@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mayurgohane&color=brightgreen)
 
-## About Me 🌍
+## About Me 🌱🌍
 
 Hi there! I’m a Data Scientist with 3 years of experience working with Machine Learning, Deep Learning, NLP, and Generative AI. I love using AI to solve real-world problems, make things more efficient, and create innovative solutions that have a real impact.
 
