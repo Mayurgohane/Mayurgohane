@@ -38,15 +38,15 @@ Here are some tools and technologies I work with:
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats 📊
 
 ![Mayur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mayurgohane&show_icons=true&theme=tokyonight&cache_seconds=1800)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayurgohane&layout=compact&theme=tokyonight&cache_seconds=1800)
 
-### 🔥 Current Streak
+### 🔥 Current Streak 🔥
 [![GitHub Streak](https://streak-stats.demolab.com?user=Mayurgohane&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-## 🎨 Interests
+## 🎨 Interests 🎨
 
 - 📸 **Photography**: 
 - 🏞️ **Trekking**: 
