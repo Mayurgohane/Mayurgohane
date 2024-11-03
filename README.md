@@ -53,7 +53,7 @@ Here are some tools and technologies I work with:
 - 🏏 **Cricket**: 
 
 
-## 📫 Connect with Me
+## 📫 Connect with Me 📫
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mayurgohane)
 [![X](https://img.shields.io/badge/X-%23FFFFFF.svg?style=for-the-badge&logo=x&logoColor=black)](https://x.com/MayurGohane)
