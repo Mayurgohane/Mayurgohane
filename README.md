@@ -10,7 +10,7 @@ I’m always excited to learn and try new things in the AI space, and I’m pass
 
 Let's connect and explore how we can push the boundaries of what's possible with AI!
 
-## 🚀 Skills & Technologies 🚀
+## Skills & Technologies 
 
 Here are some tools and technologies I work with:
 
