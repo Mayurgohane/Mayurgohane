@@ -101,21 +101,14 @@ I care about architecture, evaluation, latency, cost, and outcomes — not demos
 
 ## GitHub Analytics
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mayurgohane&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayurgohane&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mayurgohane&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="49%" alt="Mayur's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayurgohane&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" width="40%" alt="Top Languages" />
+</p>
 
-<div align="center">
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Mayurgohane&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</div>
-
----
-
-## Beyond Code
-
-Photography · Trekking · Cricket
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Mayurgohane&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
 
 ---
 
